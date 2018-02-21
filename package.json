@@ -1,0 +1,14 @@
+{
+  "name": "hello_wasm",
+  "scripts": {
+    "start": "~/emsdk/emscripten/1.37.27/emcc index.c -s WASM=1 -o index.html && ./node_modules/.bin/lite-server"
+  },
+  "version": "1.0.0",
+  "description": "a simple hello world of wasm",
+  "main": "index.js",
+  "author": "maxtermax",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
