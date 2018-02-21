@@ -1,4 +1,4 @@
-# Web assambly hello world
+# WebAssambly hello world
 try run c code om the browser through wasm 
 
 ```sh
