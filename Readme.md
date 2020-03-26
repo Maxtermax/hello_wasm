@@ -1,5 +1,5 @@
 # WebAssambly hello world
-try run c code om the browser through wasm 
+try run c code on the browser through wasm 
 
 ```sh
   npm install && npm run start
